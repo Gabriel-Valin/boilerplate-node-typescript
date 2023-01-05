@@ -7,7 +7,6 @@
   "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
-    "@typescript-eslint/no-undef",
     "prettier"
   ],
   "overrides": [],
